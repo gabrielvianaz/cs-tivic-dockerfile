@@ -1,0 +1,14 @@
+version: "3.4"
+
+services:
+  cs-tivic:
+    build: .
+    image: cs-tivic
+    container_name: cs-tivic
+    ports:
+      - 27015:27015/udp
+#    networks:
+#      - network
+#networks:
+#  network:
+#    driver: bridge
