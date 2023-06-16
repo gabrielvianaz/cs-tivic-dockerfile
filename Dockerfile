@@ -12,4 +12,4 @@ RUN chmod +x hlds_run hlds_linux
 
 EXPOSE 27015/udp
 
-CMD ./hlds_run -game cstrike +maxplayers 32 +map de_dust2
+CMD ./hlds_run -game cstrike +maxplayers 32 +map fy_pool_day2
