@@ -3,6 +3,8 @@ fy_inferno
 fy_iceworld
 fy_pool_day
 fy_india
+fy_snow
+fy_sunset
 de_dust
 de_dust2
 de_inferno
