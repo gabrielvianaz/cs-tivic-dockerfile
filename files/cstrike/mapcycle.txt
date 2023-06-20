@@ -1,6 +1,5 @@
 fy_pool_day2
 fy_inferno
-fy_iceworld
 fy_pool_day
 fy_india
 fy_snow
